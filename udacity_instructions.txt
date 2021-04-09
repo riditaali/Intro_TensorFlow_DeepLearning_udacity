@@ -1,0 +1,5 @@
+Intro To TensorFlow for Deep Learning - Udacity
+
+https://classroom.udacity.com/courses/ud187
+
+10 Lessons Plan in Videos and Colab (codes)
